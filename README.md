@@ -8,3 +8,7 @@ Note about the LED used as a lightning detector: Standard LEDs are designed to l
 
 The result is a microprocessor firing your camera's shutter quicker than we can even detect a flash with our own eyes.
 
+You can watch a video demonstration here : https://www.youtube.com/watch?v=opdjW-LTlm4
+
+
+
